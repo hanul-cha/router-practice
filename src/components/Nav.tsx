@@ -12,6 +12,9 @@ const Nav = () => {
         <li>
           <Link to="/about">About</Link>
         </li>
+        <li>
+          <Link to="/routerproptest">Router Prop Test</Link>
+        </li>
       </ul>
     </>
   );
